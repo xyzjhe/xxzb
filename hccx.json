@@ -1,4 +1,4 @@
-{"spider":"./hccx/HeChengChaXiu88.jar",
+{"spider":"./hccx/HeChengChaXiu.88jar",
 
 "wallpaper":"https://yun.chuqiuyu.tk",
 
@@ -60,7 +60,15 @@
 
 {"key":"csp_明帝","name":"🅱️明帝影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/明帝影视.json"},
 
-{"key":"csp_蛋蛋","name":"🅱️蛋蛋影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/蛋蛋影视.json"},
+{"key": "csp_蛋蛋","name": "🅱️蛋蛋影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/蛋蛋影视.json"},
+
+{"key": "csp_黑狐","name": "🅱️黑狐影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/黑狐影视.json"},
+
+{"key": "csp_耐看","name": "🅱️耐看影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/耐看影视.json"},
+
+{"key": "csp_歪片","name": "🅱️歪片星球|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/歪片星球.json"},
+
+{"key":"csp_臭蛋","name":"🅱️臭蛋影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/臭蛋影视.json"},
 
 {"key":"csp_苹果","name":"🅱️苹果影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/苹果影视.json"},
 
