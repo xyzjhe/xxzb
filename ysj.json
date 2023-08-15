@@ -1,4 +1,4 @@
-{"spider":"./hccx/HeChengChaXiu99.jar",
+{"spider":"./hccx/HeChengChaXiu.jar",
 
 "wallpaper":"https://yun.chuqiuyu.tk",
 
@@ -28,11 +28,17 @@
 
 {"key":"Czspp","name":"🅱️厂长影视|T追剧","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cz01.me/"},
 
+{"key": "影探","name": "🅱️影探蓝光|T追剧","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://yt123.lfytyl.com/api.php/app/"},
+
 {"key":"如意","name":"🅱️如意蓝光T追剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://cms.maoyingshi.cc/api.php/app/","categories":["电影","电视剧","综艺","动漫"]},
 
-{"key":"酷影","name":"🅱️酷影蓝光|T追剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://cms.realdou.cn/api.php/app/"},
+//{"key":"酷影","name":"🅱️酷影蓝光|T追剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://cms.realdou.cn/api.php/app/"},
 
 {"key":"csp_徕米","name":"🅱️徕米影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/徕米影视.json"},
+
+{"key":"csp_日后","name":"🅱️日后影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/348影视.json"},
+
+{"key":"csp_TVB","name":"🅱️TVB云播|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/TVB云播.json"},
 
 //{"key":"csp_Free","name":"🅱️Free影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/Free影视.json"},
 
@@ -84,19 +90,21 @@
 
 {"key":"js_搜狗","name":"🅱️搜狗官源|T追剧","type":3,"api":"./hccx/Api.js","ext":"./hccx/搜狗影视.js"},
 
-{"key":"jp","name":"🅱️荐片秒播|T追剧","type":3,"api":"csp_RinHome","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"荐片","name":"🅱️荐片秒播|T追剧","type":3,"api":"csp_RinHome","searchable":1,"quickSearch":1,"filterable":0},
 
-{"key":"4k","name":"🅱️4khd磁力|T追剧","type":3,"api":"csp_XPathAli","searchable":1,"quickSearch":1,"filterable":0,"ext":"./hccx/4khdr磁力.json"},
+{"key":"4KHD","name":"🅱️4khd磁力|T追剧","type":3,"api":"csp_XPathAli","searchable":1,"quickSearch":1,"filterable":0,"ext":"./hccx/4khdr磁力.json"},
 
-{"key":"yinfans","name":"🅱️音范磁力|T追剧","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"./hccx/音范磁力.json"},
+{"key":"音范","name":"🅱️音范磁力|T追剧","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"./hccx/音范磁力.json"},
 
-{"key":"my4k","name":"🅱️蚂蚁磁力|T追剧","type":3,"api":"csp_XPathAli","searchable":1,"quickSearch":1,"filterable":0,"ext":"./hccx/蚂蚁磁力.json"},
+{"key":"蚂蚁","name":"🅱️蚂蚁磁力|T追剧","type":3,"api":"csp_XPathAli","searchable":1,"quickSearch":1,"filterable":0,"ext":"./hccx/蚂蚁磁力.json"},
 
-{"key":"mp4ba","name":"🅱️MP4磁力|T追剧","type":3,"api":"csp_XPathT2M","searchable":1,"quickSearch":1,"filterable":0,"ext":"./hccx/MP4磁力.json"},
+{"key": "推送","name": "🅱️辅助推送|T功能","type": 3,"api": "csp_Push","searchable": 0,"quickSearch": 0,"filterable": 0},
 
-{"key":"seedhub","name":"🅱️seed磁力|T追剧","type":3,"api":"csp_Seedhub","searchable":1,"quickSearch":1,"filterable":0},
+//{"key":"mp4ba","name":"🅱️MP4磁力|T追剧","type":3,"api":"csp_XPathT2M","searchable":1,"quickSearch":1,"filterable":0,"ext":"./hccx/MP4磁力.json"},
 
-{"key":"dyg","name":"🅱️磁力电影|T追剧","type":3,"api":"csp_Mdygang","searchable":0,"quickSearch":0,"filterable":0},
+//{"key":"seedhub","name":"🅱️seed磁力|T追剧","type":3,"api":"csp_Seedhub","searchable":1,"quickSearch":1,"filterable":0},
+
+//{"key":"dyg","name":"🅱️磁力电影|T追剧","type":3,"api":"csp_Mdygang","searchable":0,"quickSearch":0,"filterable":0},
 
 {"key":"Gitcafe","name":"🔍阿里|纸条搜","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext":"b4242bebe6f144d3aa6a2cd842ac65aa"},
 
