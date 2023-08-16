@@ -30,7 +30,7 @@
 
 {"key": "影探","name": "🅱️影探蓝光|T追剧","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://yt123.lfytyl.com/api.php/app/"},
 
-{"key":"如意","name":"🅱️如意蓝光T追剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://cms.maoyingshi.cc/api.php/app/","categories":["电影","电视剧","综艺","动漫"]},
+{"key":"如意","name":"🅱️如意蓝光|T追剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://cms.maoyingshi.cc/api.php/app/","categories":["电影","电视剧","综艺","动漫"]},
 
 //{"key":"酷影","name":"🅱️酷影蓝光|T追剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://cms.realdou.cn/api.php/app/"},
 
@@ -51,6 +51,10 @@
 {"key":"csp_速映","name":"🅱️速映影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/速映影视.json"},
 
 {"key":"csp_土豪","name":"🅱️土豪影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/土豪影视.json"},
+
+{"key":"csp_奥特","name":"🅱️奥特影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/奥特影视.json"},
+
+{"key":"csp_兔年","name":"🅱️兔年影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/YYDS影视.json"},
 
 {"key":"csp_345","name":"🅱️看片影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/345看片.json"},
 
@@ -98,7 +102,7 @@
 
 {"key":"蚂蚁","name":"🅱️蚂蚁磁力|T追剧","type":3,"api":"csp_XPathAli","searchable":1,"quickSearch":1,"filterable":0,"ext":"./hccx/蚂蚁磁力.json"},
 
-{"key": "推送","name": "🅱️辅助推送|T功能","type": 3,"api": "csp_Push","searchable": 0,"quickSearch": 0,"filterable": 0},
+{"key": "push_agent","name": "🅱️辅助推送|T功能","type": 3,"api": "csp_Push","searchable": 0,"quickSearch": 0,"filterable": 0},
 
 //{"key":"mp4ba","name":"🅱️MP4磁力|T追剧","type":3,"api":"csp_XPathT2M","searchable":1,"quickSearch":1,"filterable":0,"ext":"./hccx/MP4磁力.json"},
 
