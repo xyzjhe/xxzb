@@ -8,7 +8,7 @@
 
 "sites":[
 
-{"key":"js_豆瓣热播","name":"🅱️追剧影院|T热播 QQ交流群:532127696","type":3,"api":"./hccx/Api.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./hccx/Doubanrebo.js"},
+{"key":"js_豆瓣热播","name":"🅱️追剧影院|T热播 QQ交流群:869277279","type":3,"api":"./hccx/Api.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./hccx/Doubanrebo.js"},
 
 {"key":"AliYunPan","name":"🅱️网盘登录|T签到","type":3,"api":"csp_AliYunPan","searchable":0,"filterable":0,"ext":"b4242bebe6f144d3aa6a2cd842ac65aa"},
 
@@ -16,9 +16,7 @@
 
 {"key":"csp_乐猪","name":"🅱️乐猪影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/乐猪影视.json"},
 
-//{"key":"csp_七七","name":"🅱️七七影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/七七影视.json"},
-
-{"key":"csp_子子","name":"🅱️紫梓影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/子子影视.json"},
+//{"key":"csp_子子","name":"🅱️紫梓影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/子子影视.json"},
 
 {"key":"csp_农民","name":"🅱️农民影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/农民影视.json"},
 
@@ -26,17 +24,15 @@
 
 {"key":"csp_低端","name":"🅱️低端影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/低端影视.json"},
 
+{"key":"csp_小鹿","name":"🅱️小鹿影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/小鹿影视.json"},
+
 {"key":"csp_兔瓜","name":"🅱️兔瓜影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/兔兔瓜.json"},
+
+{"key":"csp_达龟","name":"🅱️达龟影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/达达龟影视.json"},
 
 {"key":"Wogg","name":"🅱️玩偶哥哥|T追剧","type":3,"api":"csp_XPathAli","searchable":1,"quickSearch":1,"filterable":0,"ext":"./hccx/玩偶哥哥.json"},
 
-//{"key":"js_影探","name":"🅱️影探蓝光|T追剧","type":3,"api":"./hccx/Api.js","ext":"./hccx/影探.js"},
-
-{"key":"如意","name":"🅱️如意蓝光T追剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://cms.maoyingshi.cc/api.php/app/","categories":["电影","电视剧","综艺","动漫"]},
-
-{"key":"酷影","name":"🅱️酷影蓝光|T追剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ys.realdou.cn:62703/api.php/app/"},
-
-{"key":"影探","name":"🅱️影探蓝光|T追剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":0,"ext":"yt#vvvwvwvvwwvwvvvwvvwwvvvwwwwvvvvwvvvwwvvvwwwvvwvwvvwvvvvw.lyyytv.cn#2.2.230815"},
+{"key": "影巢","name": "🅱️网盘影巢|T追剧","type": 3,"api": "csp_Hdhive","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "b4242bebe6f144d3aa6a2cd842ac65aa"},
 
 {"key":"Czspp","name":"🅱️厂长影视|T追剧","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cz01.me/"},
 
@@ -46,11 +42,11 @@
 
 {"key":"csp_TVB","name":"🅱️TVB云播|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/TVB云播.json"},
 
-{"key":"csp_Free","name":"🅱️Free影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/Free影视.json"},
+{"key":"csp_热播","name":"🅱️热播之家|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/热播之家.json"},
 
 {"key":"csp_101","name":"🅱️摇玲影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/101影视.json"},
 
-{"key":"csp_789","name":"🅱️芭蕉影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/789影视.json"},
+{"key":"csp_圣城","name":"🅱️圣城影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/圣城影视.json"},
 
 {"key":"csp_007","name":"🅱️凌漆影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/007影视.json"},
 
@@ -63,6 +59,8 @@
 //{"key":"csp_兔年","name":"🅱️兔年影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/YYDS影视.json"},
 
 {"key":"csp_345","name":"🅱️看片影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/345看片.json"},
+
+//{"key":"csp_七喜","name":"🅱️七喜影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/七喜影视.json"},
 
 {"key":"csp_91","name":"🅱️玖摇影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/91影视.json"},
 
@@ -86,7 +84,7 @@
 
 {"key":"csp_臭蛋","name":"🅱️臭蛋影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/臭蛋影视.json"},
 
-{"key":"csp_苹果","name":"🅱️苹果影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/苹果影视.json"},
+//{"key":"csp_苹果","name":"🅱️苹果影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/苹果影视.json"},
 
 {"key":"csp_米爱","name":"🅱️米爱影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/米爱影视.json"},
 
@@ -94,7 +92,7 @@
 
 //{"key":"csp_灰太狼","name":"🅱️灰狼影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/灰太狼影视.json"},
 
-{"key":"cps_酷云","name":"🅱️酷云七七|T追剧","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"cps_酷云","name":"🅱️酷云七七|T追剧","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_非凡","name":"🅱️非凡资源|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/非凡资源网.json"},
 
@@ -114,19 +112,11 @@
 
 {"key":"荐片","name":"🅱️荐片秒播|T追剧","type":3,"api":"csp_RinHome","searchable":1,"quickSearch":1,"filterable":0},
 
-{"key":"4KHD","name":"🅱️4khd磁力|T追剧","type":3,"api":"csp_XPathAli","searchable":1,"quickSearch":1,"filterable":0,"ext":"./hccx/4khdr磁力.json"},
-
 {"key":"音范","name":"🅱️音范磁力|T追剧","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"./hccx/音范磁力.json"},
 
 {"key":"蚂蚁","name":"🅱️蚂蚁磁力|T追剧","type":3,"api":"csp_XPathAli","searchable":1,"quickSearch":1,"filterable":0,"ext":"./hccx/蚂蚁磁力.json"},
 
 {"key": "push_agent","name": "🅱️辅助推送|T功能","type": 3,"api": "csp_Push","searchable": 0,"quickSearch": 0,"filterable": 0},
-
-//{"key":"mp4ba","name":"🅱️MP4磁力|T追剧","type":3,"api":"csp_XPathT2M","searchable":1,"quickSearch":1,"filterable":0,"ext":"./hccx/MP4磁力.json"},
-
-//{"key":"seedhub","name":"🅱️seed磁力|T追剧","type":3,"api":"csp_Seedhub","searchable":1,"quickSearch":1,"filterable":0},
-
-//{"key":"dyg","name":"🅱️磁力电影|T追剧","type":3,"api":"csp_Mdygang","searchable":0,"quickSearch":0,"filterable":0},
 
 {"key":"Gitcafe","name":"🔍阿里|纸条搜","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext":"b4242bebe6f144d3aa6a2cd842ac65aa"},
 
