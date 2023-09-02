@@ -36,13 +36,11 @@
 
 {"key":"Czspp","name":"🅱️厂长影视|T追剧","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cz01.me/"},
 
-{"key":"csp_徕米","name":"🅱️徕米影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/徕米影视.json"},
+{"key":"csp_热播","name":"🅱️热播之家|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/热播之家.json"},
 
 {"key":"csp_日后","name":"🅱️日后影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/348影视.json"},
 
 {"key":"csp_TVB","name":"🅱️TVB云播|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/TVB云播.json"},
-
-{"key":"csp_热播","name":"🅱️热播之家|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/热播之家.json"},
 
 {"key":"csp_101","name":"🅱️摇玲影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/101影视.json"},
 
@@ -89,6 +87,16 @@
 {"key":"csp_米爱","name":"🅱️米爱影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/米爱影视.json"},
 
 {"key":"csp_熊猫","name":"🅱️熊猫影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/熊猫影视.json"},
+
+{"key":"csp_徕米","name":"🅱️徕米影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/徕米影视.json"},
+
+{"key":"csp_毛子","name":"🅱️毛子影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/毛毛子影视.json"},
+
+{"key":"csp_视觉","name":"🅱️视觉影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/新视觉影视.json"},
+
+{"key":"csp_淘剧","name":"🅱️淘剧影院|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/淘剧影院.json"},
+
+{"key":"csp_七喜","name":"🅱️七喜影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/七喜影视.json"},
 
 //{"key":"csp_灰太狼","name":"🅱️灰狼影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/灰太狼影视.json"},
 
