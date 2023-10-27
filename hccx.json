@@ -110,7 +110,7 @@
 
 //{"key": "csp_夜光","name": "🅱️夜光影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/夜光影视.json"},
 
-//{"key": "csp_歪片","name": "🅱️歪片星球|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/歪片星球.json"},
+{"key": "csp_歪片","name": "🅱️歪片星球|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/歪片星球.json"},
 
 //{"key":"csp_臭蛋","name":"🅱️臭蛋影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/臭蛋影视.json"},
 
