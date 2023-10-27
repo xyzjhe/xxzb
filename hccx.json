@@ -24,6 +24,8 @@
 
 {"key":"csp_星辰","name":"🅱️星辰影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/星辰影视.json"},
 
+{"key":"csp_xBPQ_蜗牛","name":"🅱️蜗牛影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/蜗牛影视.json"},
+
 {"key":"csp_盒子","name":"🅱️电影盒子|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/电影盒子.json"},
 
 {"key":"csp_干饭","name":"🅱️干饭影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/干饭影视.json"},
@@ -122,7 +124,7 @@
 
 //{"key":"csp_毛子","name":"🅱️毛子影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/毛毛子影视.json"},
 
-{"key":"csp_视觉","name":"🅱️视觉影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/新视觉影视.json"},
+//{"key":"csp_视觉","name":"🅱️视觉影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/新视觉影视.json"},
 
 {"key":"csp_子子","name":"🅱️紫梓影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/子子影视.json"},
 
