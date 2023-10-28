@@ -48,7 +48,7 @@
 
 {"key":"csp_午夜","name":"🅱️午夜影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/午夜影视.json"},
 
-{"key":"csp_吼吼","name":"🅱️吼吼影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/hoho影视.json"},
+//{"key":"csp_吼吼","name":"🅱️吼吼影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/hoho影视.json"},
 
 {"key":"csp_农民","name":"🅱️农民影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/农民影视.json"},
 
@@ -84,7 +84,7 @@
 
 {"key":"csp_土豪","name":"🅱️土豪影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/土豪影视.json"},
 
-{"key":"csp_奥特","name":"🅱️奥特影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/奥特影视.json"},
+//{"key":"csp_奥特","name":"🅱️奥特影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/奥特影视.json"},
 
 {"key":"csp_兔年","name":"🅱️兔年影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/YYDS影视.json"},
 
@@ -94,7 +94,7 @@
 
 //{"key":"csp_七喜","name":"🅱️七喜影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/七喜影视.json"},
 
-{"key":"csp_91","name":"🅱️玖摇影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/91影视.json"},
+//{"key":"csp_91","name":"🅱️玖摇影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/91影视.json"},
 
 {"key":"csp_七年","name":"🅱️七年影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/七年影视.json"},
 
@@ -102,7 +102,7 @@
 
 //{"key":"csp_真不卡","name":"🅱️不卡影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/真不卡影视.json"},
 
-{"key":"csp_xBPQ_66","name":"🅱️鎏琉影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/66影视.json"},
+//{"key":"csp_xBPQ_66","name":"🅱️鎏琉影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/66影视.json"},
 
 //{"key":"csp_明帝","name":"🅱️明帝影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/明帝影视.json"},
 
@@ -112,7 +112,7 @@
 
 //{"key": "csp_夜光","name": "🅱️夜光影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/夜光影视.json"},
 
-{"key": "csp_歪片","name": "🅱️歪片星球|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/歪片星球.json"},
+//{"key": "csp_歪片","name": "🅱️歪片星球|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/歪片星球.json"},
 
 //{"key":"csp_臭蛋","name":"🅱️臭蛋影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/臭蛋影视.json"},
 
@@ -124,7 +124,7 @@
 
 //{"key":"csp_毛子","name":"🅱️毛子影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/毛毛子影视.json"},
 
-//{"key":"csp_视觉","name":"🅱️视觉影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/新视觉影视.json"},
+//{"key":"csp_视觉","name":"🅱️视觉影视|T追剧","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/新视觉影视.json"},
 
 {"key":"csp_子子","name":"🅱️紫梓影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/子子影视.json"},
 
@@ -150,9 +150,9 @@
 
 {"key":"荐片","name":"🅱️荐片秒播|T追剧","type":3,"api":"csp_RinHome","searchable":1,"quickSearch":1,"filterable":0},
 
-{"key":"音范","name":"🅱️音范磁力|T追剧","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"./hccx/音范磁力.json"},
+//{"key":"音范","name":"🅱️音范磁力|T追剧","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"./hccx/音范磁力.json"},
 
-{"key":"蚂蚁","name":"🅱️蚂蚁磁力|T追剧","type":3,"api":"csp_XPathAli","searchable":1,"quickSearch":1,"filterable":0,"ext":"./hccx/蚂蚁磁力.json"},
+//{"key":"蚂蚁","name":"🅱️蚂蚁磁力|T追剧","type":3,"api":"csp_XPathAli","searchable":1,"quickSearch":1,"filterable":0,"ext":"./hccx/蚂蚁磁力.json"},
 
 {"key": "push_agent","name": "🅱️辅助推送|T功能","type": 3,"api": "csp_Push","searchable": 0,"quickSearch": 0,"filterable": 0},
 
