@@ -16,9 +16,9 @@
 
 //{"key":"Czspp","name":"🅱️厂长影视|T追剧","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.cz01.tv/"},
 
-{"key":"csp_乐猪","name":"🅱️乐猪影视|T追剧","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/乐猪影视.json"},
+{"key":"csp_乐猪","name":"🅱️乐猪影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/乐猪影视.json"},
 
-{"key":"csp_花猫","name":"🅱️花猫影视|T追剧","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/花猫影视.json"},
+{"key":"csp_花猫","name":"🅱️花猫影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/花猫影视.json"},
 
 {"key":"csp_xBPQ_玖八","name":"🅱️玖八影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/98影视.json"},
 
@@ -156,13 +156,17 @@
 
 {"key": "push_agent","name": "🅱️辅助推送|T功能","type": 3,"api": "csp_Push","searchable": 0,"quickSearch": 0,"filterable": 0},
 
-{"key":"Gitcafe","name":"🔍阿里|纸条搜","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext":"b4242bebe6f144d3aa6a2cd842ac65aa"},
+{"key": "PanSearch","name": "🔍阿里|网盘搜","type": 3,"api": "csp_PanSearch","searchable": 1,"filterable": 0,"changeable": 0,"ext": "b4242bebe6f144d3aa6a2cd842ac65aa"},
 
-{"key":"PanSou","name":"🔍阿里|盘搜索","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"b4242bebe6f144d3aa6a2cd842ac65aa"},
+{"key": "PanSou","name": "🔍阿里|盘搜索","type": 3,"api": "csp_PanSou","searchable": 1,"filterable": 0,"changeable": 0,"ext": "b4242bebe6f144d3aa6a2cd842ac65aa"},
 
-{"key":"UpYun","name":"🔍阿里|优盘搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"ext":"b4242bebe6f144d3aa6a2cd842ac65aa"},
+{"key": "UpYun","name": "🔍网盘|优盘搜","type": 3,"api": "csp_UpYun","searchable": 1,"filterable": 0,"changeable": 0,"ext": "b4242bebe6f144d3aa6a2cd842ac65aa"},
 
-{"key":"Zhaozy","name":"🔍阿里|找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"b4242bebe6f144d3aa6a2cd842ac65aa$$$ygfxz$$$66666"},
+{"key": "YiSou","name": "🔍网盘|易搜搜","type": 3,"api": "csp_YiSou","searchable": 1,"filterable": 0,"changeable": 0,"ext": "b4242bebe6f144d3aa6a2cd842ac65aa$$$satoken=abfceef7-ca8f-40b6-afd8-5c11fab10336"},
+        
+{"key": "Zhaozy","name": "🔍网盘|找资源","type": 3,"api": "csp_Zhaozy","searchable": 1,"filterable": 0,"changeable": 0,"ext": "b4242bebe6f144d3aa6a2cd842ac65aa$$$zalman$$$zalman"},
+
+{"key": "Gitcafe","name": "🔍网盘|小纸条","type": 3,"api": "csp_Paper","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": ".b4242bebe6f144d3aa6a2cd842ac65aa"},
 
 {"key":"cctv","name":"📺央视｜大全","type":3,"api":"csp_CCTV","searchable":0,"filterable":0,"ext":"./hccx/央视大全.json"},
 
