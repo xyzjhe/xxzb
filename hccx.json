@@ -28,6 +28,10 @@
 
 {"key":"csp_爱看","name":"🅱️爱看影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/爱看影视.json"},
 
+{"key":"csp_七新","name":"🅱️七新影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/七新影视.json"},
+
+{"key":"csp_超前","name":"🅱️超前点播|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/超前B站.json"},
+
 {"key":"csp_午舞","name":"🅱️午舞影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/五五影视.json"},
 
 {"key":"csp_师兄","name":"🅱️师兄影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/大师兄影视.json"},
@@ -92,7 +96,7 @@
 
 {"key": "YiSou","name": "🔍网盘|易搜搜","type": 3,"api": "csp_YiSou","searchable": 1,"filterable": 0,"changeable": 0,"ext": "b4242bebe6f144d3aa6a2cd842ac65aa$$$satoken=abfceef7-ca8f-40b6-afd8-5c11fab10336"},
         
-{"key": "Zhaozy","name": "🔍网盘|找资源","type": 3,"api": "csp_Zhaozy","searchable": 1,"filterable": 0,"changeable": 0,"ext": "b4242bebe6f144d3aa6a2cd842ac65aa$$$zalman$$$zalman"},
+{"key": "Zhaozy","name": "🔍网盘|找资源","type": 3,"api": "csp_Zhaozy","searchable": 1,"filterable": 0,"changeable": 0,"ext": "b4242bebe6f144d3aa6a2cd842ac65aa$$$hccx$$$hccx"},
 
 {"key": "Gitcafe","name": "🔍网盘|小纸条","type": 3,"api": "csp_Paper","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "b4242bebe6f144d3aa6a2cd842ac65aa"},
 
