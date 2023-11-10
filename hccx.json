@@ -8,7 +8,7 @@
 
 "sites":[
 
-{"key":"豆瓣","name":"豆瓣","type":3,"api":"csp_Douban","searchable":0},
+ {"key": "Douban", "name":"🐱┃豆瓣SP_doudou┃🐱", "type": 3, "api": "csp_Douban", "searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 1,"ext": "./json/douban.json"}, 
         
 {"key":"阿里云盘登录","name":"阿里云盘登录","type":3,"api":"csp_AliYunPan","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
 
