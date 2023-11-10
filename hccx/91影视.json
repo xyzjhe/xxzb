@@ -26,11 +26,13 @@
     
     "链接":"href=\"&&\"",
     
-    "搜索url":"/index.php/vod/search.html?wd={wd}",
+    "搜索模式":"1",
+    
+    "搜索url":"https://91free.vip/vodsearch/-------------.html?wd={wd}",
     
     "搜索数组":"module-card-item-class\">&&</a>",
     
-    "搜索标题":"alt=\"&&\"",
+    "搜索标题":"<strong>&&</strong>",
     
     "搜索副标题":"note\">&&</div>",
     
@@ -40,7 +42,7 @@
     
     "线路数组":"data-dropdown-value=&&</div>[不包含:海外用户专用（国内需翻墙）]",
     
-    "线路标题":"荷城茶秀接口-+<span>&&</small>[替换:</span><small>>>🌸共]+集🌸",
+    "线路标题":"🌸荷城茶秀接口🌸+<span>&&</small>[替换:</span><small>>>共]+集",
     
     "播放数组":"<div class=\"module-play-list-content&&</div>",
     
@@ -48,7 +50,7 @@
     
     "播放列表":"<a&&</a>",
     
-    "分类url":"https://91free.vip/vodshow/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html;;ak",
+    "分类url":"https://91free.vip/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html;;ak",
     
     "分类":"电影$20#电视剧$21#综艺$22#动漫$23#体育$52",
     
